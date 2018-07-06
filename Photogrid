@@ -40,3 +40,8 @@ h2 {
 	font-family: Great Vibes;
 	color: blue;
 }
+h2:hover {
+	color: yellow;
+}
+
+
