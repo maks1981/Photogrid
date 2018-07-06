@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Maks Photos</title>
+	<link rel="stylesheet" type="text/css" href="photo.css">
+</head>
+<h2>MY PHOTOS</h2>
+
+<body>
+
+<img src="https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350">
+<img src="https://ujjawalprabhat.com/wp-content/uploads/2017/07/girls-lover.jpg?x88136">
+<img src="https://images.pexels.com/photos/695688/pexels-photo-695688.jpeg?auto=compress&cs=tinysrgb&h=350">
+
+<img src="https://i.pinimg.com/originals/eb/70/2b/eb702b4b213b9d22bc534e8e7ef6f446.jpg">
+<img src="https://i.ytimg.com/vi/88tgsXO1Nug/hqdefault.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Purple_pansy.jpg">
+
+<img src="https://i.pinimg.com/originals/fe/8a/b5/fe8ab5cbf2d6d0968a144328cd0d9867.jpg">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbwpy4N4xWfCG8xk9QHdfhzfPD86DWLsCBq6t3w1PrGWYwIFUc">
+<img src="https://simplylivingtips.com/wp-content/uploads/2016/08/most-beautiful-flower-hd-wallpaper.jpg">
+
+</body>
+</html>
+
+<!-- below css files for above html-->
+img {
+	height: 200px;
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+h2 {
+	text-align: center;
+}
+body {
+	background: #f0e68c;
+}
+h2 {
+	font-family: Great Vibes;
+	color: blue;
+}
