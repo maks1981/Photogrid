@@ -3,10 +3,12 @@
 <head>
 	<title>Maks Photos</title>
 	<link rel="stylesheet" type="text/css" href="photo.css">
+	<link href="https://fonts.googleapis.com/css?family=Gaegu:400,700" rel="stylesheet">
 </head>
-<h2>MY PHOTOS</h2>
+
 
 <body>
+<p>my new photos</p>
 
 <img src="https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&h=350">
 <img src="https://ujjawalprabhat.com/wp-content/uploads/2017/07/girls-lover.jpg?x88136">
@@ -25,23 +27,30 @@
 
 <!-- below css files for above html-->
 img {
-	height: 200px;
+	height: 250px;
 	width: 30%;
 	float: left;
 	margin: 1.66%;
 }
-h2 {
-	text-align: center;
+p {
+    text-align: center;
+    color: green;
+    font-family: Gaegu;
+    margin-left: 1.66%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid gray;
+    width: 96.5%;
+    padding-bottom: 20px;
+    
 }
 body {
 	background: #f0e68c;
 }
-h2 {
-	font-family: Great Vibes;
-	color: blue;
-}
-h2:hover {
+
+p:hover {
 	color: yellow;
 }
-
+ 
 
